@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<img src="preview/代理.png" alt="代理" width="200" /> <img src="preview/訂閱.png" alt="訂閱" width="200" /> <img src="preview/proxies.png" alt="proxies" width="200" /> <img src="preview/profiles.png" alt="profiles" width="200" /> <img src="preview/icon.png" alt="profiles" width="120" />
+<img src="preview/代理.png" alt="代理" width="200" /> <img src="preview/訂閱.png" alt="訂閱" width="200" /> <img src="preview/proxies.png" alt="proxies" width="200" /> <img src="preview/profiles.png" alt="profiles" width="200" />
 
 ## 1.Icon
 
