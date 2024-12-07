@@ -1,0 +1,45 @@
+
+.layout__left .the-logo {
+    visibility: hidden !important;
+}
+
+.linux.layout .layout__left .the-logo, .windows.layout .layout__left .the-logo, .unknown.layout .layout__left .the-logo {
+    flex: 1 0 58px;
+    margin-top: -70px;
+    margin-left: 10px;
+    padding: 30px 20px 26px 10px;
+}
+
+.layout__left {
+    flex: 1 0 147px;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding: 0 0 0px;
+    flex-direction: column;
+    align-self: stretch;
+    box-sizing: border-box;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    overflow: hidden;
+    border-right: 1px solid var(--divider-color);
+}
+
+.css-79rra8 {
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: left;
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px 0px;
+}
